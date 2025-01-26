@@ -4,7 +4,7 @@
 - 👀 I’m interested in **Web Development**, including **HTML**, **CSS**, **JavaScript**, and modern frameworks.
 - 🌱 I’m currently learning **React.js** and improving my skills in **responsive web design**.
 - 💞️ I’m looking to collaborate on **open-source projects** and innovative web applications.
-- 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/farjana-rahman-fahima-54046b243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📫 How to reach me: [Connect with me on LinkedIn](https://www.linkedin.com/in/farjana-rahman-fahima-54046b243)
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I enjoy experimenting with creative CSS animations and building engaging user interfaces.
 
